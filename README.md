@@ -40,9 +40,4 @@
 
 #### 🏆Licences & Certifications
 - 🎖️[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/earner/earned/badge/ef76b8e1-2d43-4fed-a885-fc0ae4e8ff2c)
-- 🎖️[Alteryx Foundational Micro-Credential](https://www.credly.com/badges/1719e7f0-1966-42b4-8742-a957313e408b/public_url)
-- 🎖️[Alteryx Designer Core Certification](https://www.credly.com/badges/188139a8-3f3c-4248-aa77-e0d2ec13c118/public_url)
-- 🎖️[AWS Academy Graduate - AWS Academy Data Analytics](https://www.credly.com/badges/9c32fc1a-d5bc-4fa2-a117-523394001912/public_url)
-- 🎖️[AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/d891ec6c-8eec-4243-9306-c8c54a7a4551/public_url)
-- 🎖️[AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://www.credly.com/badges/79cbbc39-2c87-4257-a68a-f09e7ddc9d70/public_url)
-
+- 🎖️[AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/earner/earned/badge/6ec7d1da-46c3-404b-a336-af6d39c353df)https://www.credly.com/earner/earned/badge/6ec7d1da-46c3-404b-a336-af6d39c353df)
