@@ -40,4 +40,4 @@
 
 #### 🏆Licences & Certifications
 - 🎖️[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/earner/earned/badge/ef76b8e1-2d43-4fed-a885-fc0ae4e8ff2c)
-- 🎖️[AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/earner/earned/badge/6ec7d1da-46c3-404b-a336-af6d39c353df)https://www.credly.com/earner/earned/badge/6ec7d1da-46c3-404b-a336-af6d39c353df)
+- 🎖️[AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/earner/earned/badge/6ec7d1da-46c3-404b-a336-af6d39c353df)
