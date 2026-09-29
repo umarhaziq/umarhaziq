@@ -1,43 +1,39 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPeSlkkwh3Pt6A8/giphy.gif" width="200"/>
-</div>
+<h1 align="center">Hi, I'm Umar Haziq 👋</h1>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/umar-haziq-75805b226/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<a href="">
-    <img src="https://img.shields.io/badge/-ePortfolio-yellowgreen?style=for-the-badge"/>
-  </a>
-</div>
-  
-
-
-
-
-<h1 align="center">Hi 👋, I'm Umar Haziq</h1>
-<h3 align="center">Data Engineering student at Universiti Teknologi Malaysia (UTM) | Familiar around C++, HTML, PHP, CSS, MySQL, Bootstrap, JavaScript, Python</h3>
-
-- 🌱 I’m currently learning **Python, MongoDB, Django**
-
-- 🤝 I’m currently high committee of [Google Developer Student Club](https://gdsc.community.dev/universiti-teknologi-malaysia/)
-
-- 💬 Ask me my favourite **movies and singers**
-
-- 📫 How to reach me **umarhaziq@graduate.utm.my**
-
-- ⚡ Fun fact **The most embarrassing thing that ever happened to me was I pooped on my pants during class and all my friends was laughing at me**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/umar-haziq-75805b226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="u" height="30" width="40" /></a>
-<a href="https://instagram.com/___umrhzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___umrhzq" height="30" width="40" /></a>
+<p align="center">
+  MSc Data Science and Analytics, University of Leeds<br>
+  Bachelor of Computer Science (Data Engineering), Universiti Teknologi Malaysia
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/umar-haziq-75805b226/">LinkedIn</a> ·
+  <a href="mailto:uhaziq06@gmail.com">Email</a>
+</p>
 
+## About me
 
-#### 🏆Licences & Certifications
-- 🎖️[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/earner/earned/badge/ef76b8e1-2d43-4fed-a885-fc0ae4e8ff2c)
-- 🎖️[AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/earner/earned/badge/6ec7d1da-46c3-404b-a336-af6d39c353df)
+I work on machine learning, data analysis and practical data tools. I recently submitted my MSc dissertation on graph-based representations of malaria cells in fluorescence microscopy images. I am awaiting my MSc results and expect to graduate in December 2026.
+
+I also enjoy applying data science to sustainability challenges. My team received a Gold Award at the University of Leeds Data & AI Hackathon for a carbon emissions prediction project.
+
+## Featured work
+
+- **MSc dissertation — graph-based malaria phenotype analysis (2026):** Extracted 846 cell crops from 484 valid image–annotation pairs, generated 1,280-dimensional EfficientNet-B1 features, and trained a PyTorch Geometric Graph Autoencoder with a GCN encoder. Compared link reconstruction and clustering across representations and random seeds. The multimodal GNN representation improved cluster separation over the CNN representation, while morphology and fluorescence features performed best overall.
+- **Carbon emissions prediction (2026):** Collaborated on a machine learning project exploring emissions and climate-related trends; awarded Gold at the Leeds Data & AI Hackathon.
+- **AI Smart Guardian, AIMS Project (ongoing through December 2026):** Product & Technical Specialist on a team proposing a responsible AI caregiver app. Contributing to product and technical planning; the app's proposed features are still in development.
+- **TM One internship (2024–2025):** Built two Power BI dashboards for business and performance reporting and automated a weekly email workflow with Power Automate.
+
+## Tools I use
+
+**Machine learning:** Python, PyTorch, PyTorch Geometric, scikit-learn, EfficientNet-B1, graph neural networks, clustering  
+**Data and visualisation:** pandas, NumPy, Matplotlib, SQL, Power BI, Excel  
+**Development:** Git/GitHub, Linux/Unix, Jupyter Notebook, Google Colab, Power Automate
+
+## Certifications and awards
+
+- Gold Award — University of Leeds Data & AI Hackathon
+- Microsoft Certified: Azure AI Fundamentals
+- AWS Academy Graduate — Cloud Foundations
+- Alteryx Designer Core
+
+You can reach me at **[uhaziq06@gmail.com](mailto:uhaziq06@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/umar-haziq-75805b226/)**.
